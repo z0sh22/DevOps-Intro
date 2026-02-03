@@ -32,6 +32,9 @@ Commit signing protects against **Supply Chain Attacks**, where attackers might 
 ## Скриншот шаблона
 *![alt text](image-1.png)*
 
+Шаблон работает / template is workong
+![alt text](image-3.png) 
+
 ## Доказательство наличия файла
 ![alt text](image-2.png).
 
